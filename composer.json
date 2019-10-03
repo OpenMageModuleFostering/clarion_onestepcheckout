@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Clarion_OnestepCheckout",
+    "name": "OpenMageModuleFostering\/Clarion_OnestepCheckout",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
     "description": "Simplify the magento checkout process and reduced the magento checkout steps from 6 to 1",
     "authors": [
-    {
-        "name": "Dattatray Yadav",
-        "email": "magento@clariontechnologies.co.in"
-    }
-],
+        {
+            "name": "Dattatray Yadav",
+            "email": "magento@clariontechnologies.co.in"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
