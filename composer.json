@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Clarion_OnestepCheckout",
+    "name": "openmage-module-fostering\/clarion_onestepcheckout",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Simplify the magento checkout process and reduced the magento checkout steps from 6 to 1",
     "authors": [
